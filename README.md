@@ -1,2 +1,0 @@
-# hilo
-A guessing game
