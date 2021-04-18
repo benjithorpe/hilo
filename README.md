@@ -1,4 +1,3 @@
-# Python Practice Projects
+# Python Practice
 
-scripts from books and tutorial concepts
-
+scripts from books and tutorial
