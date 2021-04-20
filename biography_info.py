@@ -1,0 +1,10 @@
+print("===== Welcome to Biography Info =====")
+print("enter details to have your biography displayed.")
+
+name = input("Name: ")
+age = input("Age: ")
+contact = input("Contact: ")
+address = input("Address: ")
+hobbies = input("Hobbies: ")
+interests = input("Interests: ")
+summary = input("Short summary about you: ")
