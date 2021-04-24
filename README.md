@@ -1,3 +1,3 @@
 # Python Practice
 
-scripts from books and tutorial
+scripts from books, tutorials, challenges, and self practice.

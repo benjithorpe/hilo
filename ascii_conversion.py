@@ -1,9 +1,7 @@
-letter = 'A'
-
+letter = input('Enter a letter to Convert: ')
 
 def letter_to_ascii(letter):
     pass
-
 
 def ascii_char_to_letter(ascii_char):
     pass
